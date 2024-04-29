@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "hono": "4.2.8"
+  },
+  "devDependencies": {
+    "prettier": "3.2.5",
+    "vercel": "32.7.2"
+  }
+}
